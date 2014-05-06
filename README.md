@@ -1,3 +1,9 @@
+## UPDATE 2014-05-06
+Completed with R code in *code* folder
+New png files are in *figure* folder
+The code should produce identical copies of the proposed files. However, if your local settings are different from English, abbreviations of days of the week will be in another language.
+In this repo, some of the graphs show *jue*, *vie* and *sáb*, which stand for Thursday, Friday and Saturday abbreviations in Spanish.
+
 ## Introduction
 
 This assignment uses data from
